@@ -9,5 +9,7 @@ A device that allows you to listen to conversations from the future.
 - keypad : https://www.adafruit.com/product/1824
 - arcade button with built-in LED 
 - small speakers 
+- casing is 3D printed (made with OpensCAD, modified in Tinkercad)
+- top cover is laser-cut 
 
 
